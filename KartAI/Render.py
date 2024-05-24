@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # KartAI https://github.com/eritzyg/KartAI/
 # Copyright (c) 2017 Eritz Yerga Gutierrez and Iker García Ferrero
 # MIT License https://github.com/eritzyg/KartAI/blob/master/LICENSE
